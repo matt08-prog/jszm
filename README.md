@@ -1,3 +1,5 @@
+# Example file is a front end to be used with node.js
+
 # JSZM
 JSZM is a public-domain [Z-machine](https://en.wikipedia.org/wiki/Z-machine) implementation written in JavaScript/ES6.
 
